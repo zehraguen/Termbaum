@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Termbaum
+comment1.params=pBinaerbaum
+comment1.target=Termbaum(BinaryTree)
+comment10.params=pBinaryTree
+comment10.target=java.lang.String\ alsTerm(BinaryTree)
+comment2.params=pBinaryTree
+comment2.target=java.lang.String\ wurzelString(BinaryTree)
+comment3.params=pBinaryTree
+comment3.target=char\ wurzelOperator(BinaryTree)
+comment4.params=pBinaryTree
+comment4.target=double\ wurzelZahl(BinaryTree)
+comment5.params=
+comment5.target=double\ wert()
+comment6.params=pBinaryTree
+comment6.target=double\ wert(BinaryTree)
+comment7.params=
+comment7.target=java.lang.String\ inUPN()
+comment8.params=pBinaryTree
+comment8.target=java.lang.String\ inUPN(BinaryTree)
+comment9.params=
+comment9.target=java.lang.String\ alsTerm()
+numComments=11
